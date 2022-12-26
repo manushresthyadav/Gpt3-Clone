@@ -32,6 +32,7 @@ background-color: orange;
 .h-one{
     position: absolute;
     left: 4%;
+    display:flex;
 }
 
 .xx{
