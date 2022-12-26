@@ -19,7 +19,7 @@ function handleClick(){
 
   return (
     <div className='header'>
-<div className='flex h-one'>
+<div className='h-one'>
     <a  href="" className='h-firsta'>GPT-3</a>
 <Link to="/">Home</Link>
         <Link to="/gpt">
