@@ -1,0 +1,19 @@
+@media screen and (max-width:680px){
+    .logos img{
+        width: 60px;
+    }
+    .logos{
+        column-gap: 20px;
+    }
+}
+.logos{
+    column-gap: 40px;
+}
+@media screen and (max-width:470px) {
+    .logos img{
+        width: 50px;
+    }
+    .logos{
+        column-gap: 10px;
+    }
+}
